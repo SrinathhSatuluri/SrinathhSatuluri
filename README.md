@@ -1,11 +1,11 @@
 <h4 align="center"><samp> Hey 👋 I'm Srinath — another node trying to reach <code>consensus</code>.</samp></h4>
 
 <p align="center">
-  <img width="350" src="https://media0.giphy.com/media/fw8uZriJW4TlhmZnUj/giphy.gif" alt="network nodes">
+  <img width="350" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat typing">
 </p>
 
 <p align="center">
-<samp><code>CS</code> & <code>Math</code> · distributed systems · Houston, TX</samp>
+<samp><code>CS</code> & <code>Math</code> · University of Houston · Houston, TX</samp>
 </p>
 
 <p align="center">
