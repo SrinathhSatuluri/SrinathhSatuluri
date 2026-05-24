@@ -16,8 +16,3 @@
 <a href="https://x.com/Srinathh_s">Twitter/X</a> |
 <a href="https://github.com/SrinathhSatuluri">GitHub</a>
 </p>
-
-<p align="center"><samp>
-Take a look at some of my work ⬇️
-</samp>
-</p>
