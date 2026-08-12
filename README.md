@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hey, I'm Srinath.</samp></h4>
+<h4 align="center"><samp> Hey, I'm Srinath 👋.</samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat typing">
