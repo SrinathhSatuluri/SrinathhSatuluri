@@ -1,11 +1,18 @@
-### Hey, I'm Srinath.
+<h4 align="center"><samp> Hey, I'm Srinath.</samp></h4>
 
-CS & Math at the University of Houston.
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat typing">
+</p>
 
-I work on [BlazingMQ](https://github.com/bloomberg/blazingmq), Bloomberg's open-source distributed message broker — fixing data races, patching correctness bugs, and hardening the storage engine. 14 PRs merged into the main repo, all reviewed by core maintainers.
+<p align="center">
+<em>Currently on Repeat 💿 <a href="https://youtu.be/zqNTltOGh5c">Miles Davis - So What</a></em>
+</p>
 
-Built [bmq-codegen](https://github.com/SrinathhSatuluri/bmq-codegen), a Python compiler that parses XSD schemas and generates 56,000+ lines of BDE-compliant C++ protocol types.
+<p align="center">
+<samp><code>CS</code> & <code>Math</code> · University of Houston · Houston, TX</samp>
+</p>
 
-C++ · Python · distributed systems · concurrency
-
-<a href="https://x.com/Srinathh_s">twitter</a> · <a href="mailto:mixedwrestlingfan21@gmail.com">email</a>
+<p align="center">
+<a href="https://x.com/Srinathh_s">Twitter/X</a> |
+<a href="https://github.com/SrinathhSatuluri">GitHub</a>
+</p>
